@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/firedata/static/css/main.3892dab8.css",
+    "main.js": "/firedata/static/js/main.eb96e707.js",
+    "index.html": "/firedata/index.html",
+    "main.3892dab8.css.map": "/firedata/static/css/main.3892dab8.css.map",
+    "main.eb96e707.js.map": "/firedata/static/js/main.eb96e707.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3892dab8.css",
+    "static/js/main.eb96e707.js"
+  ]
+}
